@@ -2,7 +2,7 @@
 
 ## AOP_DI_SPRINGBOOT
 
-This starter project is for executing standart tasks on a database of patients and
+This starter project is for executing standard tasks on a database of patients and
 features the concepts/functionalities listed below :
 
 - AOP through :
