@@ -1,0 +1,18 @@
+package ma.enset.tpjpa.web;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import ma.enset.tpjpa.repositories.PatientRepository;
+
+@RestController
+public class PatientsController {
+	@Autowired
+	private PatientRepository patientRepository;
+	
+	public List<PatientRepository> patients(){
+		return patientRepository.findAll().get();
+	}
+}

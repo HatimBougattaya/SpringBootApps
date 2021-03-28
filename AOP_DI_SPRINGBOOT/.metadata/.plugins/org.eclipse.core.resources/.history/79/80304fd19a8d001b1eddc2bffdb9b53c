@@ -1,0 +1,5 @@
+package ma.enset.tpjpa.repositories;
+
+public interface PatientRepository {
+
+}
