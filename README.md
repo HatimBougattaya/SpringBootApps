@@ -1,6 +1,6 @@
 # INFORMATION ABOUT SPRINGBOOTAPPS IN THIS PROJECT
 
-## AOP_DI_SPRINGBOOT
+## AOP_DI_SPRINGBOOT (gestion_patient)
 
 This starter project is for executing standard tasks on a database of patients and
 features the concepts/functionalities listed below :
@@ -14,7 +14,7 @@ features the concepts/functionalities listed below :
 - Security through Spring Security
 - FrontEnd using thymleaf templates
   
-## TPIOC
+## TP_IOC_DI
 
 This mini project represents a demo for the work we would have done without spring
 autowiring and spring boot autoconfiguration
