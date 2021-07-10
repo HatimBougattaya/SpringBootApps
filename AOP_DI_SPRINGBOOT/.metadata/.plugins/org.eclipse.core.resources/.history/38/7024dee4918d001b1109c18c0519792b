@@ -1,5 +1,0 @@
-package ma.enset.tpjpa.entities;
-
-public class Patient {
-
-}

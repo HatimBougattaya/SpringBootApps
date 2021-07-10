@@ -1,9 +1,0 @@
-package ma.enset.tpjpa.entities;
-
-public class Patient {
-	private long id;
-	private String name;
-	private Date datNaissance;
-	private int score;
-	
-}

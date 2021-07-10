@@ -1,5 +1,0 @@
-package ma.enset.tpjpa.web;
-
-public class PatientsController {
-
-}
